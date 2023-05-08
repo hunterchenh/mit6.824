@@ -1,18 +1,18 @@
 ## MIT6.824分布式系统
 [6.824 Schedule: Spring 2022](https://pdos.csail.mit.edu/6.824/schedule.html) 课程的四个lab已经全部完成，并进行了文档记录：
 
-- Lab01-MapReduce：https://blog.csdn.net/qq_44766883/article/details/124475672
+- Lab01-MapReduce
 - Lab02-Raft：
-  - Part 2A(leader election)：https://blog.csdn.net/qq_44766883/article/details/126255117
-  - Part 2B(log replication)：https://blog.csdn.net/qq_44766883/article/details/126255214
-  - Part 2C(persistence)：https://blog.csdn.net/qq_44766883/article/details/126255266
-  - Part 2D(log compaction)：https://blog.csdn.net/qq_44766883/article/details/126255298
+  - Part 2A(leader election)
+  - Part 2B(log replication)
+  - Part 2C(persistence)
+  - Part 2D(log compaction)
 - Lab03-Fault-tolerant KV Service：
-  - Part 3A(Key/value service without snapshots)：https://blog.csdn.net/qq_44766883/article/details/126333690
-  - Part 3B(Key/value service with snapshots)：https://blog.csdn.net/qq_44766883/article/details/126333739
+  - Part 3A(Key/value service without snapshots)
+  - Part 3B(Key/value service with snapshots)
 - Lab03-Shard Sharded KV Service：
-  - Part 4A(The Shard controller)：https://blog.csdn.net/qq_44766883/article/details/126430294
-  - Part 4A(Sharded Key/Value Server)：https://blog.csdn.net/qq_44766883/article/details/126430452
+  - Part 4A(The Shard controller)
+  - Part 4A(Sharded Key/Value Server)
 
 相关资料：
 - https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md
